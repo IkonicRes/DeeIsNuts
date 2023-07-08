@@ -1,0 +1,13 @@
+* {
+    background-color: var(--menu-bkgcolor);
+    color: var(--main-text-color);
+
+    font-family: "Caveat", cursive;
+    font-weight: ;
+}
+
+h1 {
+    font-size: var(--h1-textsize);
+    text-align: center;
+    text-shadow: var(--base-textshadow);
+}
